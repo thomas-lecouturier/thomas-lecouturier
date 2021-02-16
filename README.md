@@ -1,4 +1,4 @@
-![Cover](https://github.com/thomas446/thomas446/blob/master/img/shanghai.jpg)
+![Cover](https://github.com/thomas446/thomas446/blob/master/img/cover.jpg)
 
 - 👋 Hi, I’m @thomas
 - 👀 I’m interested in ...
