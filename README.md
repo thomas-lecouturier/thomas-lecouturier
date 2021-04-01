@@ -2,7 +2,7 @@
 - 👀 Développeur web Spécialisation Symfony
 - 💞️ Je suis à la recherche d'un emploi dans le développement web
 - 📫 N'hésitez pas à me contacter à thomas.lecouturier@gmail.com
-- 
+
 ![Cover](https://github.com/thomas446/thomas446/blob/main/img/cover.jpg)
 
 <!---
